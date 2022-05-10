@@ -1,2 +1,2 @@
 # CS-Cypress-Framework
-Compelete cypress integrated template for start up projects.
+Compelete cucumber integrated cypress template for start up projects.

@@ -1,0 +1,18 @@
+{
+    "video": true,
+    "screenshotsFolder": "/Users/sindujan/report/",
+    "baseUrl" : "https://google.com/",
+    "env":{
+        "username":"admin"
+    },
+    "projectId": "ysysvz",
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+        "configFile": "reporterOptions.json"
+    },
+    "retries" : {
+        "runMode" : 1,
+        "openMode": 1
+    },
+    "experimentalStudio" : true
+}
